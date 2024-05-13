@@ -11,9 +11,9 @@ More About Myself ([Portfolio](https://manivelan.netlify.app/))
 ### I'm S.V.Manivelan
 
 Research Scholar  
-Department of Physics, M. R. Government Arts College (Affiliated to Bharathidasan University), Mannargudi, Tamilnadu, India - 614 001.
+Department of Physics, M. R. Government Arts College (Affiliated to Bharathidasan University), Mannargudi, India.
 
-I am Manivelan Saminathan Vasuki, Research Scholar specializing in Nonlinear Dynamics and Chaos, delving deep into Physics through computational insights. Currently, I am investigating the statistical properties and dynamics of extreme events across various nonlinear systems. By applying chaos and Extreme Value Theory principles, I aim to deeply comprehend their occurrence and impact.
+I'm specializing in Nonlinear Dynamics and Chaos, delving deep into Physics through computational insights. Currently, I am investigating the statistical properties and dynamics of extreme events across various nonlinear systems. By applying chaos and Extreme Value Theory principles, I aim to deeply comprehend their occurrence and impact.
 
 I'm ready to engage in discussions and work. For me, research is all about discovering enjoyable new things and fostering enriching connections.
 
