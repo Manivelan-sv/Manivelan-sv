@@ -1,7 +1,7 @@
 Hey!.... This is Manivelan
 -------
 
-More About Myself ([Portfolio](https://manivelan.netlify.app/))
+More About Myself ([Portfolio](https://manivelan.netlify.app/?gl_source=GitHub))
 -----------------
 <img src="https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/MANIVELAN.jpg" width="250">
 
