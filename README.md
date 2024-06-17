@@ -3,7 +3,7 @@ Hey!.... This is Manivelan
 
 More About Myself ([Portfolio](https://manivelan.netlify.app/))
 -----------------
-<img src="https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/MANIVELAN.jpg" width="250">
+<img src="https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/MANIVELAN.jpg" width="250">
 
 
 ### I'm S.V.Manivelan
@@ -23,7 +23,7 @@ Research Experience
 
 Skills & Abilities
 ------------------
-![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/julia.png) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/tensorflow.png) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/python.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/arduino.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/c.png) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/linux.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/matlab.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/fortran.png) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/origin.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/html.png) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/proteus.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/github.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv.github.io/blob/main/assets/images/latex.jpeg)
+![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/julia.png) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/tensorflow.png) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/python.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/arduino.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/c.png) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/linux.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/matlab.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/fortran.png) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/origin.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/html.png) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/proteus.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/github.jpeg) ![](https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/latex.jpeg)
 
 
 Research Nexus
