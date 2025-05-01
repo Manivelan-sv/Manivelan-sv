@@ -18,7 +18,7 @@ I'm ready to engage in discussions and work. For me, research is all about disco
 
 Research Experience
 -------------------
-[See Full Publication](https://scholar.google.com/citations?hl=en&user=-_SuNEQAAAAJ)
+[See Full Publication](https://manivelan.netlify.app/publication/)
 
 
 Skills & Abilities
