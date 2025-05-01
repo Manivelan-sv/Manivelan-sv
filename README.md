@@ -6,7 +6,7 @@ More About Myself ([Portfolio](https://manivelan.netlify.app/?gl_source=GitHub))
 <img src="https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/MANIVELAN.jpg" width="250">
 
 
-### I'm S.V.Manivelan
+### S.V.Manivelan
 
 Research Scholar  
 Department of Physics, M. R. Government Arts College (Affiliated to Bharathidasan University), Mannargudi, India.
