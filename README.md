@@ -3,7 +3,7 @@ Hey!.... This is Manivelan
 
 More About Myself ([Portfolio](https://manivelan.netlify.app/?gl_source=GitHub))
 -----------------
-<img src="https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/MANIVELAN.jpg" width="250">
+<img src="https://github.com/Manivelan-sv/manivelan-sv/blob/main/assets/images/Manivelan.jpeg" width="250">
 
 
 ### S.V.Manivelan
